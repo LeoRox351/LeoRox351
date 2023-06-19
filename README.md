@@ -84,7 +84,7 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/Rox351/Rox351/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeoRox351/LeoRox351/blob/main/github-contribution-grid-snake.svg)
  
 </div>
 
